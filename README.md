@@ -1,2 +1,2 @@
 # projet-seconde-session
-projet seconde session
+un petit outil permetant de gerer sa consomation de films ou on pourrait créer une liste de films a voir, y ajouter des commentaires visibles par d'autres utilisateurs, noter les films etc...
