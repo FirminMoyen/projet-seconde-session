@@ -2,7 +2,7 @@ CREATE DOMAIN Dsexe char(1) NOT NULL DEFAULT 'F' check(@col in ( 'M','F'));
 
 CREATE TABLE tbReal (
     realId       int default AUTOINCREMENT,
-    realNom      charchar(30) NOT NULL,
+    realNom      char(30) NOT NULL,
     realPrenom   char(15) NULL,
     realSexe     Dsexe,
 
